@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+*.env
+
+# Spark / Logs
+.sparkStaging/
+.derby/
+metastore_db/
+logs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Docker
+*.pid
+*.log
+
+# Data / Dumps
+*.csv
+*.parquet
+*.avro
+
+# Misc
+*.iml
