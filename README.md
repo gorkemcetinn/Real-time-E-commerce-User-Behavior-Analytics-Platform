@@ -39,6 +39,6 @@ Ayrıntı:
 > Sprint görevlerinin tamamı `docs/` altındaki sprint md dosyalarında.
 
 ## Lisans
-MIT LİCANSE
+MIT License
 
 
