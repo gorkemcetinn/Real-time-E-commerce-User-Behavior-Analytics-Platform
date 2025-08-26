@@ -35,17 +35,10 @@ Ayrıntı:
 - `storage/` — PostgreSQL DDL, indeks planı, saklama politikası
 - `monitoring/` — Kafka/Spark/DB metrikleri ve uyarı planı
 
-## Başlangıç (Sprint 1 hedefleri)
-1. Repo iskeleti (bu dosya ve klasörler) ✅  
-2. Yüksek seviye mimari diyagram (docs/architecture.*)  
-3. Event sözlüğü (docs/data_dictionary.md)  
-4. Kafka topic tasarımı (docs/kafka_design.md)  
-5. Yerel altyapı bileşen listesi (docs/run_local.md)  
-6. `.env.example` & başlatma adımları (infra/)
 
 > Sprint görevlerinin tamamı `docs/` altındaki sprint md dosyalarında.
 
 ## Lisans
-TBD
+MIT LİCANSE
 
 
